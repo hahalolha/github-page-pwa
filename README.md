@@ -1,5 +1,7 @@
 # Github page as a PWA template
 
+just another dumb-@$$ who has no idea what they're doing, nothing to see here...
+
 This is a bare-bones example on how to turn an `index.html` document on GitHub and hosted as a GitHub Page into an installable Progressive Web App with offline caching.
 
 As a reminder, you can host HTML, CSS and JavaScript files on GitHub as pages. For example, I have bare bones To Do app at https://github.com/codepo8/simple-to-do with an `index.html` document.
