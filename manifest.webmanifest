@@ -9,9 +9,9 @@
   "display": "standalone", 
   "icons": [
       {
-        "src": "/github-page-pwa/img/icon.png",
-        "type": "image/png",
-        "sizes": "700x700"
+        "src": "/github-page-pwa/img/images (6)~3.jpeg",
+        "type": "image/jpg",
+        "sizes": "512x512"
       }
   ]
 }
