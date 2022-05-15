@@ -1,7 +1,7 @@
 {
-  "name": "Github Page PWA",
-  "short_name": "GPPWA",
-  "description": "Github Page as a Progressive Web App",
+  "name": "Manning the deck",
+  "short_name": "mtdpirate",
+  "description": "idk man what else should i put here?",
   "scope": "/github-page-pwa/",
   "start_url": "/github-page-pwa/",
   "background_color": "#ffffff",
